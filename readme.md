@@ -1,4 +1,4 @@
- <?php
+ <!-- <?php
     if (isset($_POST["submit"])) {
         if (empty("city")) {
             echo "enter city name";
@@ -86,4 +86,4 @@
      </div>
  </body>
 
- </html>
+ </html> -->
